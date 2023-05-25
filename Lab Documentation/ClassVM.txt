@@ -1,0 +1,12 @@
+TLDR: Setup a VM and submit a screenshot of it running.
+
+The lab is set up so that students cannot install software, You will be using VMWARE to load a premade VM.  VMWARE is loaded on your systems.  You can access VMWARE from the start menu (you may have to type in VMWARE in the search box). Allocating 4GB memory is fine for this lab.  You can create a dive of say 20GB which will be sufficient.
+ 
+
+From there you can import the vm in VMware by clicking file, open and then selecting the downloaded winclassvm.ovf file to import the virtual machine.
+
+Once it is imported, we can choose edit this virtual machine to add additional CPU cores and Memory. I recommend 2-4 cores and ~4096MB of RAM. 
+
+After you finish editing, please select power on this virtual machine.
+
+From here you can configure your virtual windows machine. Please take note of the password you set. You may need to select view, fit guest now to stretch the aspect ratio of the screen.

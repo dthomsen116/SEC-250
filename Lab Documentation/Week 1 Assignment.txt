@@ -1,0 +1,18 @@
+1. A common method of categorizing security issues is the CIA triad :  Confidentiality, Integrity, Availability.
+
+Which of these are affected if someone knows your campus login and password.  Describe the risk.
+
+ 
+
+2.  Choose any 2 of the following
+
+Do you think security cameras are a positive move or negative.   Explain  Do some research and cite some examples of uses of security cameras in good or bad ways. 
+Read the Cybersecurity safety report from Norten  https://now.symassets.com/content/dam/norton/campaign/NortonReport/2020/2019_NortonLifeLock_Cyber_Safety_Insights_Report_Global_Results.pdf?promocode=DEFAULTWEBLinks to an external site.   Pick 2 items and describe the risk and propose a method to improve the security. 
+
+Hacker –good or bad?    Look up some information on the use of the term and give an opinion , citing your sources.
+
+In World War II, Enigma was an encrypting device.  How was  that encryption code broken?
+
+Do some research on FERPA and how it relates to you.
+
+How long is the average APT on systems before it is found?
