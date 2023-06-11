@@ -11,7 +11,7 @@ assignment may, for the purpose of assessing this assignment:
 ## Course Information
 
 ### Course Name: _Computer and Network Security_
-### Course Number: _SEC-260_
+### Course Number: _SEC-250_
 ### Professor: _Joseph Letourneau_
 ### Semester: _Spring 2021_
 ### Student Name: _David Thomsen_
